@@ -1,0 +1,1 @@
+[16-Aug-2018 11:19:36 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/macle/public_html/dexarte/sales/report/incomplete.php on line 8

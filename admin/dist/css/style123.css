@@ -1,0 +1,54 @@
+	em.invalid {
+		color: red;
+		font-size: 16px;
+		padding-left: 212px;
+	}
+	#listg {
+		font-size: 20px;
+		padding-left: 27px;
+	}
+	div#select {
+		margin-left: 86px;
+		color: red;
+	}
+
+
+	
+	#Delete-enquiry-successModal .modal {
+		bottom: 0;
+		display: none;
+		left: 0;
+		overflow-x: auto;
+		overflow-y: scroll;
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 1040;
+	}
+	#Delete-enquiry-successModal .fade {
+		opacity: 0;
+		transition: opacity 0.15s linear 0s;
+	}
+	#Delete-enquiry-successModal .modal-dialog {
+		margin: 30px auto;
+		width: 600px;
+	}
+	
+	#Delete-enquiry-successModal .modal-content{
+		background-clip: padding-box;
+		background-color: #fff;
+		border: 1px solid rgba(0, 0, 0, 0.2);
+		border-radius: 6px;
+		box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+		outline: 0 none;
+		position: relative;
+	}
+	#Delete-enquiry-successModal .data-added-success {
+		color: #00a65a;
+		font-size: 25px;
+		padding: 10px;
+	}
+	#Delete-enquiry-successModal .text-center{
+		text-align: center;
+	}
+
